@@ -1,0 +1,5 @@
+[{"name":"Mansi","EYC":1234567890,"address":"Thane","email":"mansi@email","aadharNo":123456123456,"noOfUnits":100},
+  {"name":"Abhijay","EYC":9876543210,"address":"Panvel","email":"abhi@email","aadharNo":123456123456,"noOfUnits":200},
+  {"name":"Nupur","EYC":2345678901,"address":"Hostel","email":"nupur@email","aadharNo":123456123456,"noOfUnits":300},
+  {"name":"Kunal","EYC":3456789012,"address":"Ulhasnagar","email":"kunal@email","aadharNo":123456123456,"noOfUnits":400},
+  {"name":"Rohini","EYC":4567890123,"address":"Mumbai","email":"rohini@email","aadharNo":123456123456,"noOfUnits":500}]
